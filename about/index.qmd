@@ -1,0 +1,56 @@
+---
+title: "Who am I"
+---
+
+   I am **Alfred Ain Sallwa**, a PhD candidate at **Mzumbe University** (Business School) and a visiting student at Cardiff University Business Education. My research sits at the intersection of supply chain integration and youth healthcare service. I investigate the determinants for supply chain integration and its possible effect on improving the availability of adolescents and youth sexual reproductive health commodities. 
+
+I work closely with supervisors and collaborators across academia and practice, and I enjoy building reproducible causal pipelines (R/Quarto/Git), delivering hands‑on training, and translating technical research into operational guidance for supply chain practitioners. <add your story here: see an example: 
+(https://github.com/alfred-ain/phd_project/settings/access)
+
+## Education
+
+* **PhD**, Mzumbe University Business School — Health Supply Chain Management (ongoing)
+
+* **[Previous degree(s) **
+- [Master’s in Supply Chain Management, College of Business Education, Tanzania, (2023). 
+- Certified Procurement and Supply Professional, Procurement and Supplies Professional and Technician Board, Tanzania, (2019). 
+- Masters of Business Administration in Corporate Management, Mzumbe University, Tanzania, (2019).]
+
+## Research focus / PhD project
+  
+  While more efforts and interventions are directed at improving the health of young men and women in Africa, this study posits that supply chain integration (SCI) is the backbone of the healthcare facilities in ensuring the availability of AYSRH commodities.
+
+My research aims to assess the determinants of supply chain integration, and its effect on ensuring the availability of adolescent and youth sexual reproductive health (AYSRH) commodities in Tanzania.
+
+The study focuses on the downstream level of the AYSRH service delivery by surveying the public healthcare centers in the Shinyanga, Geita, Simiyu, and Katavi regions and analyzing healthcare workers’ perceptions using R analysis to run the Structural Equation Modelling (SEM).
+
+The study will provide evidence and informed decisions on the effective implementation of the SCI towards enhancing AYSRH service provision.
+
+- Practically, the study will provide new insights to healthcare supply chain actors involved in moving AYSRH commodities.
+
+- Theoretically, the study challenges institutional theory by integrating it with the resource-based view to offer a holistic evaluation of the healthcare supply chain.
+
+## Supervision team
+
+- Major: [Prof Henry Abraham Mollel](https://scholar.google.co.uk/citations?user=mksGO2kAAAAJ&hl=en&oi=ao), Mzumbe University, Tanzania
+- Co: [Prof Leonada Mwagike](https://scholar.google.co.uk/citations?user=l_Mr2y8AAAAJ&hl=en&oi=ao), Cardiff Mzumbe University, Tanzania
+- International: [Prof Bahman Rostami-Tabar](https://profiles.cardiff.ac.uk/staff/rostami-tabarb), Data Lab for Social Good Research Group, Cardiff Business School, UK
+
+## Funder
+
+Welsh Graduate School for the Social Sciences (WGSSS)
+
+## Teaching & training
+
+* Graduate tutor: Forecasting and Business Analytics modules (Cardiff).
+* Delivered workshops and short courses: Introduction to Python for researchers, time series forecasting workshops for pharmaceutical officers in Ethiopia, Quarto website training for R users.
+
+## Technical skills
+
+* **Languages & tooling:** R (tidyverse, tsibble, fable), Python (pandas, mlforecast), Quarto, Git/GitHub, Docker, LaTeX/TikZ
+* **Forecasting & ML:** State‑space models, Tobit/Kalman approaches, conformal prediction, LightGBM/XGBoost, probabilistic forecasting, hierarchical forecasting
+* **Supply chain / domain tools:** LMIS/DHIS2 contexts, inventory simulation, demand censoring and lost‑sales handling
+* **Reproducibility & deployment:** renv, Quarto websites, GitHub Actions, containerised evaluation (CHAP)
+
+
+
